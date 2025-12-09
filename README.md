@@ -413,39 +413,6 @@ Contributions welcome! Areas for enhancement:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
----
-
-## 🙏 Acknowledgments
-
-- **Exponential & Erlang Distributions**: Classic reliability theory foundations
-- **Queueing Theory**: M/M/c models from operations research
-- **Smart City IoT**: Modern urban infrastructure monitoring
-- **Retro UI Design**: Inspired by vintage handheld tracking devices
-
----
-
-## 📚 References
-
-1. Rausand, M., & Høyland, A. (2004). *System Reliability Theory: Models, Statistical Methods, and Applications*. Wiley.
-2. Gross, D., & Harris, C. M. (1998). *Fundamentals of Queueing Theory*. Wiley.
-3. Barlow, R. E., & Proschan, F. (1996). *Mathematical Theory of Reliability*. SIAM.
-4. Trivedi, K. S. (2016). *Probability and Statistics with Reliability, Queueing, and Computer Science Applications*. Wiley.
-
----
-
-## 🔗 Related Projects
-
-- [Reliability Engineering Tools](https://github.com/example/reliability-tools)
-- [Smart City IoT Platforms](https://github.com/example/smart-city-iot)
-- [Queueing Theory Simulators](https://github.com/example/queueing-sim)
 
 ---
 
