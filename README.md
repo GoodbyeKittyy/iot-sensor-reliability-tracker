@@ -6,6 +6,11 @@
 [![Next.js](https://img.shields.io/badge/Next.js-12%2B-black)](https://nextjs.org/)
 [![Django](https://img.shields.io/badge/Django-4.0%2B-green)](https://www.djangoproject.com/)
 
+</br>
+<img width="1416" height="852" alt="image" src="https://github.com/user-attachments/assets/c4617836-5a39-4dd5-bfc0-0d28fcbe01a4" />
+
+</br>
+
 A comprehensive smart city IoT monitoring dashboard for municipalities managing thousands of sensors (traffic, air quality, water flow). This system leverages advanced statistical models including Exponential and Erlang distributions for reliability analysis, queueing theory for maintenance optimization, and cascade failure prediction.
 
 ---
@@ -100,15 +105,7 @@ iot-sensor-reliability-tracker/
 │       ├── QueueingModel              # Fast queueing analysis
 │       └── FleetReliabilityManager    # Smart pointer-based fleet management
 │
-└── app.tsx                            # Next.js TypeScript frontend
-    └── Components:
-        ├── IoTDashboard               # Main dashboard component
-        ├── IoTAPIService              # API integration layer
-        └── Views:
-            ├── Overview               # Fleet reliability overview
-            ├── Sensors                # Sensor inventory table
-            ├── Maintenance            # Crew and schedule management
-            └── Analytics              # Advanced statistical analytics
+└── iot_tracker_interface.tsx          # TypeScript Interactive Artifact
 ```
 
 ---
@@ -452,6 +449,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Built with ❤️ for Smart Cities and Reliability Engineering**
-
-*Last Updated: December 2025*
+**⭐ Star this repository if you find it helpful!**
